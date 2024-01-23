@@ -1,0 +1,1 @@
+# react-hoc-render-props2
